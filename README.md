@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">🇮🇳 Student from India | Passionate about science, tech, and building cool stuff</h4>
+<h2 align="left">🇮🇳 Student from India | Passionate about science, tech, and building cool stuff</h2>
 
 ###
 
@@ -18,11 +18,11 @@
 
 ###
 
-<h5 align="left">📫 How to reach me: shlokmehndiratta@gmail.com</h5>
+<h4 align="left">📫 How to reach me: shlokmehndiratta@gmail.com</h4>
 
 ###
 
-<h5 align="left">Connect with me:</h5>
+<h4 align="left">Connect with me:</h4>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h5 align="left">My Languages and Tools kit :</h5>
+<h4 align="left">My Languages and Tools kit :</h4>
 
 ###
 
@@ -72,10 +72,11 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shlok-mehndiratta/shlok-mehndiratta/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shlok-mehndiratta/shlok-mehndiratta/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/shlok-mehndiratta/shlok-mehndiratta/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="output/pacman-contribution-graph.svg">
 </picture>
+
 
 ###
 
