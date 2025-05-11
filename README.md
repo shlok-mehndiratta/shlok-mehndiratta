@@ -2,7 +2,7 @@
 
 ###
 <div style="display: flex; align-items: center;">
-  <h2 align="left" style="flex: 1;">🇮🇳 Student from India | Passionate about science, tech, and building cool stuff</h2>
+  <h2 align="center" style="flex: 1;">🇮🇳 Student from India | Passionate about science, tech, and building cool stuff</h2>
   <img align="right" height="300" src="https://programing-gifs.vercel.app" />
 </div>
 
