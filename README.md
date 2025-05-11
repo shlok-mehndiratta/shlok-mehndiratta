@@ -2,7 +2,7 @@
 
 ###
 <div style="display: flex; align-items: center;">
-  <h2 style="flex: 1; margin-right: 20px;">🇮🇳 Student from India | Passionate about science, tech, and building cool stuff</h2>
+  <h2 style="flex: 1; margin-right:5 ;">🇮🇳 Student from India | Passionate about science, tech, and building cool stuff</h2>
   <img align="right" height="300" src="https://programing-gifs.vercel.app" />
 </div>
 
@@ -49,7 +49,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask logo  style="background-color:white; padding:5px; border-radius:5px;"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
