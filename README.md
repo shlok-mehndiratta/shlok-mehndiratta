@@ -15,7 +15,7 @@
 
 <h4 align="left">
   📫 How to reach me: 
-  <a href="mailto:shlokmehndiratta@gmail.com">shlokmehndiratta@gmail.com</a>
+  <a href="mailto:shlokmehndiratta@gmail.com"><u>shlokmehndiratta@gmail.com</u>u></a>
 </h4>
 
 ###
@@ -64,7 +64,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/f8a992d6-26fb-4a93-9a91-9c20e64b0848" height="40" alt="flask logo"  />
+  <img src="https://github.com/user-attachments/assets/b05d2664-7e18-4eab-975c-29d6ee359acb" height="40" alt="flask logo"  />
 </div>
 
 ###
