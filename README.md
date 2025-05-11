@@ -1,16 +1,14 @@
-<br clear="both">
-
 <h1 align="Center">Hi👋, I'm Shlok Mehndiratta.</h1>
 
 ###
 
-<img align="right" height="200" src="https://programing-gifs.vercel.app"  />
+<img align="right" height="300" src="https://programing-gifs.vercel.app"  />
 
 ###
 
 <h2 align="left">🇮🇳 Student from India | Passionate about science, tech, and building cool stuff</h2>
 
-###
+
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shlok-mehndiratta.shlok-mehndiratta&"  />
@@ -54,7 +52,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
