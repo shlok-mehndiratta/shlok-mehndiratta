@@ -1,4 +1,4 @@
-<h1 align="Center">Hi👋, I'm Shlok Mehndiratta.</h1>
+<h1 align="Center">Hi👋, I'm <strong>Shlok Mehndiratta</strong>.</h1>
 
 ###
 <div style="display: flex; align-items: center;">
@@ -13,7 +13,10 @@
 
 ###
 
-<h4 align="left">📫 How to reach me: shlokmehndiratta@gmail.com</h4>
+<h4 align="left">
+  📫 How to reach me: 
+  <a href="mailto:shlokmehndiratta@gmail.com">shlokmehndiratta@gmail.com</a>
+</h4>
 
 ###
 
@@ -61,7 +64,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask logo"  style="background-color:white; padding:5; border-radius:5;"  />
+  <img src="https://github.com/user-attachments/assets/f8a992d6-26fb-4a93-9a91-9c20e64b0848" height="40" alt="flask logo"  />
 </div>
 
 ###
