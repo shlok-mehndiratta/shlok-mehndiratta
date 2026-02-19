@@ -1,88 +1,118 @@
-<h1 align="Center">Hi👋, I'm <strong>Shlok Mehndiratta</strong>.</h1>
+<div align="center">
 
-###
-<div style="display: flex; align-items: center;">
-  <h2 align="center" style="flex: 1;">🇮🇳 Student from India | Passionate about science, tech, and building cool stuff</h2>
-  <img align="right" height="300" width="350" src="https://programing-gifs.vercel.app" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Shlok!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Student%20·%20Builder%20·%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+
 </div>
-
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shlok-mehndiratta.shlok-mehndiratta&"  />
-</div>
-
-###
-
-<h4 align="left">
-  📫 How to reach me: 
-  <a href="mailto:shlokmehndiratta@gmail.com"> <u> shlokmehndiratta@gmail.com </u> </a>
-</h4>
-
-###
-
-<h4 align="left">Connect with me:</h4>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/shlok-mehndiratta" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
-  <a href="https://x.com/ShlokMehndiratt" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/shlok-mehndiratta" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<h4 align="left">My Languages and Tools kit :</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="52" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="52" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="52" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="52" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://github.com/user-attachments/assets/250deacc-ae9a-48cc-9c8e-8fcdfef06c3c" width="52" height="40" alt="flask logo"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="output/pacman-contribution-graph.svg">
-</picture>
-
-
-###
-
-<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shlok-mehndiratta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true&order=1" height="148" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shlok-mehndiratta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=CS+%26+EE+Student+%40+IISER+Bhopal+🎓;Robotics+%7C+ML+%7C+Full-Stack+Dev+🤖;Always+building+something+cool+⚡;Open+to+collaborate+%26+contribute+🌍)](https://git.io/typing-svg)
+
 </div>
 
-###
+---
+
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+### 🙋‍♂️ About Me
+
+- 🎓 &nbsp; **3rd Year BS** in EECS @ IISER Bhopal
+- 🤖 &nbsp; Into **Robotics, Control Systems & ML**
+- 🌱 &nbsp; Currently exploring **ROS2, MPC & Multi-Agent Systems**
+- 🔍 &nbsp; Looking to **collaborate on open source projects**
+- ⚡ &nbsp; Also into **full-stack dev & embedded systems**
+- 📫 &nbsp; **shlokmehndiratta@gmail.com**
+- 🌍 &nbsp; Based in **Bhopal, India**
+
+<br clear="both"/>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Robotics & AI**
+
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Web & Backend**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shlok-mehndiratta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok-mehndiratta&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shlok-mehndiratta&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+### 🌍 Open Source
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+
+**I love connecting with the community and contributing to meaningful projects!**
+
+If you're working on something interesting in **Robotics, ML, or Dev Tools** — let's build together 🚀
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/shlok-mehndiratta)
+
+</div>
+
+---
+
+### 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shlok-mehndiratta)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ShlokMehndiratt)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shlok-mehndiratta)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shlokmehndiratta@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
