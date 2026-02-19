@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=CS+%26+EE+Student+%40+IISER+Bhopal+🎓;Undergrad+Researcher+in+Robotics+%26+Control+🔬;Always+building+something+cool+⚡;Open+to+collaborate+%26+contribute+🌍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=EECS+Student+%40+IISER+Bhopal+🎓;Undergrad+Researcher+in+Robotics+%26+Control+🔬;Always+building+something+cool+⚡;Open+to+collaborate+%26+contribute+🌍)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,9 +21,8 @@
 - 🤖 &nbsp; Passionate about **Robotics, ML & Embedded Systems**
 - 🌱 &nbsp; Currently exploring **ROS2, MPC & Multi-Agent Systems**
 - 🔍 &nbsp; Looking to **collaborate on open source projects**
-- ⚡ &nbsp; Also into **full-stack dev & digital design**
-- 📫 &nbsp; **shlokmehndiratta@gmail.com**
-- 🌍 &nbsp; Based in **Bhopal, India**
+- 📫 &nbsp; **shlokm23@iiserb.ac.in**
+
 
 <br clear="both"/>
 
@@ -35,9 +34,9 @@
 
 | 🤖 Robotics & Control | 🧬 Machine Learning | 💻 Systems & Embedded | 🌐 Dev Tools & Web |
 |:---:|:---:|:---:|:---:|
-| ROS2 · Gazebo | Graph Neural Networks | C++ · Embedded C | FastAPI · Django |
-| MPC · EKF | Computer Vision | Arduino · Assembly | Docker · REST APIs |
-| UAV/UGV systems | Point Cloud / LiDAR | Digital Design | Full-Stack Apps |
+| ROS2 · Gazebo | Graph Neural Networks | C++ · Embedded C | Django · React |
+| MPC · EKF | Computer Vision | Arduino · Assembly | REST APIs |
+| UAV/UGV Systems | Point Cloud / LiDAR | Digital Design | Full-Stack Apps |
 | Multi-Agent Nav | Scikit-learn · TF | Linux Systems | Open Source Tooling |
 
 </div>
@@ -57,9 +56,6 @@
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/><br/>C++
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48"/><br/>C
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/><br/>JavaScript
@@ -87,37 +83,25 @@
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/><br/>React
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48"/><br/>Django
-    </td>
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48"/><br/>FastAPI
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48"/><br/>Flutter
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48"/><br/>Docker
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48"/><br/>Django
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/><br/>MySQL
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/><br/>MongoDB
-    </td>
-    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/><br/>Git
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48"/><br/>Linux
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="48" height="48"/><br/>LaTeX
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48"/><br/>Arduino
     </td>
@@ -125,10 +109,13 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="48" height="48"/><br/>ROS2
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48"/><br/>Flask
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/><br/>GitHub
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/><br/>GitHub
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/><br/>VS Code
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48"/><br/>Bash
     </td>
   </tr>
 </table>
@@ -141,14 +128,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shlok-mehndiratta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok-mehndiratta&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shlok-mehndiratta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shlok-mehndiratta&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shlok-mehndiratta&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=shlok-mehndiratta&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
