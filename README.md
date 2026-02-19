@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=EECS+Student+%40+IISER+Bhopal+🎓;Undergrad+Researcher+in+Robotics+%26+Control+🔬;Always+building+something+cool+⚡;Open+to+collaborate+%26+contribute+🌍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=EECS+Student+%40+IISER+Bhopal+🎓;Undergrad+Researcher+in+Robotics+%26+Control+🔬;Always+building+something+with+passion+⚡;Open+to+collaborate+%26+contribute+🌍)](https://git.io/typing-svg)
 
 </div>
 
@@ -128,15 +128,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shlok-mehndiratta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shlok-mehndiratta&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
-
-</div>
-
-<div align="center">
-
+<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shlok-mehndiratta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+&nbsp; -->
 <img src="https://streak-stats.demolab.com?user=shlok-mehndiratta&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shlok-mehndiratta&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
 
 </div>
 
@@ -164,8 +159,8 @@ If you're working on something interesting in **Robotics, ML, C++, or Dev Tools*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shlok-mehndiratta)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ShlokMehndiratt)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shlok-mehndiratta)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shlokmehndiratta@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shlok_mehndiratta)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shlokm23@iiserb.ac.in)
 
 </div>
 
