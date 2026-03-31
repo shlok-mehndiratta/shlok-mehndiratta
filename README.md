@@ -77,7 +77,7 @@ I'm an undergraduate student at IISER Bhopal working at the intersection of **au
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" height="36"/><br/><sub>Django</sub>
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/5640728?s=40" width="36" height="36"/><br/><sub>Gazebo</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gazebo/gazebo-original.svg" width="36" height="36"/><br/><sub>Gazebo</sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36"/><br/><sub>Pandas</sub>
