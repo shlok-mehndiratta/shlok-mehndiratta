@@ -1,121 +1,103 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Shlok!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Student%20·%20Researcher%20·%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+# Shlok Mehndiratta
 
-</div>
+**EECS Student · Undergrad Researcher · Open Source Contributor**
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=EECS+Student+%40+IISER+Bhopal+🎓;Undergrad+Researcher+in+Robotics+%26+Control+🔬;Always+building+something+with+passion+⚡;Open+to+collaborate+%26+contribute+🌍)](https://git.io/typing-svg)
+Indian Institute of Science Education & Research, Bhopal &nbsp;|&nbsp; BS Electrical & Computer Science (EECS)&nbsp;
 
 </div>
 
 ---
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+### About Me
 
-### 🙋‍♂️ About Me
+I'm an undergraduate student at IISER Bhopal working at the intersection of **autonomous robotics, control systems, and machine learning**. My research focuses on building reliable perception and navigation pipelines for autonomous systems.
 
-- 🎓 &nbsp; **3rd Year BS** in EECS @ IISER Bhopal
-- 🔬 &nbsp; Undergrad researcher in **Autonomous Robotics & Control Systems**
-- 🤖 &nbsp; Passionate about **Robotics, ML & Embedded Systems**
-- 🌱 &nbsp; Currently exploring **ROS2, MPC & Multi-Agent Systems**
-- 🔍 &nbsp; Looking to **collaborate on open source projects**
-- 📫 &nbsp; **shlokm23@iiserb.ac.in**
-
-
-<br clear="both"/>
+- 🎓 3rd Year BS in EECS @ IISER Bhopal
+- 🔬 Undergrad researcher in **Autonomous Robotics & Control Systems**
+- 🌱 Currently exploring **ROS2, Model Predictive Control & Multi-Agent Systems**
+- 🔍 Open to collaborating on research and open source projects
+- 📫 [shlokm23@iiserb.ac.in](mailto:shlokm23@iiserb.ac.in)
 
 ---
 
-### 🧠 Fields I Love & Want to Contribute In
+### Research & Technical Interests
 
-<div align="center">
-
-| 🤖 Robotics & Control | 🧬 Machine Learning | 💻 Systems & Embedded | 🌐 Dev Tools & Web |
-|:---:|:---:|:---:|:---:|
+| Robotics & Control | Machine Learning | Systems & Embedded | Software & Dev |
+|---|---|---|---|
 | ROS2 · Gazebo | Graph Neural Networks | C++ · Embedded C | Django · React |
 | MPC · EKF | Computer Vision | Arduino · Assembly | REST APIs |
-| UAV/UGV Systems | Point Cloud / LiDAR | Digital Design | Full-Stack Apps |
+| UAV / UGV Systems | Point Cloud / LiDAR | Digital Design | Full-Stack Dev |
 | Multi-Agent Nav | Scikit-learn · TF | Linux Systems | Open Source Tooling |
-
-</div>
-
-> 💡 *If you're building something in any of these spaces — I'd love to contribute, review, or just chat!*
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/><br/>Python
+    <th align="center">Languages</th>
+    <th align="center">Robotics & Embedded</th>
+    <th align="center">ML / Data</th>
+    <th align="center">Tools & Infra</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36"/><br/><sub>Python</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/><br/>C++
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="36" height="36"/><br/><sub>ROS2</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/><br/>JavaScript
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36"/><br/><sub>TensorFlow</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48"/><br/>HTML5
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48"/><br/>CSS3
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36"/><br/><sub>Git</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48"/><br/>TensorFlow
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36"/><br/><sub>C++</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/><br/>NumPy
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="36" height="36"/><br/><sub>Arduino</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/><br/>Pandas
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36"/><br/><sub>NumPy</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/><br/>Scikit-learn
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/><br/>React
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36"/><br/><sub>Linux</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48"/><br/>Django
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" height="36"/><br/><sub>Django</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/><br/>MySQL
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/5640728?s=40" width="36" height="36"/><br/><sub>Gazebo</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/><br/>Git
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36"/><br/><sub>Pandas</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48"/><br/>Linux
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="48" height="48"/><br/>LaTeX
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" height="36"/><br/><sub>Bash</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48"/><br/>Arduino
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36"/><br/><sub>React</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="48" height="48"/><br/>ROS2
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36"/><br/><sub>MySQL</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/><br/>GitHub
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36"/><br/><sub>Scikit-learn</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/><br/>VS Code
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48"/><br/>Bash
+    <td align="center">
+      <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" height="28"/><br/><sub>LaTeX</sub>
     </td>
   </tr>
 </table>
@@ -124,36 +106,26 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shlok-mehndiratta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-&nbsp; -->
-<img src="https://streak-stats.demolab.com?user=shlok-mehndiratta&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shlok-mehndiratta&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shlok-mehndiratta&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&theme=nord" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shlok-mehndiratta&layout=compact&hide_border=true&langs_count=6&theme=nord" height="160"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shlok-mehndiratta&hide_border=true&area=true&theme=nord" width="80%"/>
 
 </div>
 
 ---
 
-### 🌍 Open Source
+### Connect
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
-
-**I love connecting with the community and contributing to meaningful projects!**
-
-If you're working on something interesting in **Robotics, ML, C++, or Dev Tools** — let's build together 🚀
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/shlok-mehndiratta)
-
-</div>
-
----
-
-### 📬 Let's Connect
 
 <div align="center">
 
@@ -162,10 +134,4 @@ If you're working on something interesting in **Robotics, ML, C++, or Dev Tools*
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shlok_mehndiratta)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shlokm23@iiserb.ac.in)
 
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
