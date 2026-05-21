@@ -14,7 +14,7 @@ Indian Institute of Science Education & Research, Bhopal &nbsp;|&nbsp; BS Electr
 
 I'm an undergraduate student at IISER Bhopal working at the intersection of **autonomous robotics, control systems, and machine learning**. My research focuses on building reliable perception and navigation pipelines for autonomous systems.
 
-- 🎓 3rd Year BS in EECS @ IISER Bhopal
+- 🎓 Final Year BS in EECS @ IISER Bhopal
 - 🔬 Undergrad researcher in **Autonomous Robotics & Control Systems**
 - 🌱 Currently exploring **ROS2, Model Predictive Control & Multi-Agent Systems**
 - 🔍 Open to collaborating on research and open source projects
