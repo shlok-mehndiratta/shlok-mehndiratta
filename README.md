@@ -18,7 +18,7 @@ I'm an undergraduate student at IISER Bhopal working at the intersection of **au
 - 🔬 Undergrad researcher in **Autonomous Robotics & Control Systems**
 - 🌱 Currently exploring **ROS2, Model Predictive Control & Multi-Agent Systems**
 - 🔍 Open to collaborating on research and open source projects
-- 📫 [shlokm23@iiserb.ac.in](mailto:shlokm23@iiserb.ac.in)
+- 📫 Email: [shlokm23@iiserb.ac.in](mailto:shlokm23@iiserb.ac.in)
 
 ---
 
